@@ -177,7 +177,7 @@ Wind
 
 PV
 -------------------------
-- **Modul Model**: Module name, according to the database used. Possible Modul Models are presented `here <https://github.com/chrklemm/SESMG/blob/v0.2/docs/getting_started/modul_name.csv>`_.
+- **Modul Model**: Module name, according to the database used. Possible Modul Models are presented `here <https://github.com/chrklemm/SESMG/blob/master/docs/manual/modul_name.csv>`_.
 - **Inverter Model**: Inverter name, according to the database used. Possible Inverter Models are presented `here <https://github.com/chrklemm/SESMG/blob/v0.2/docs/getting_started/inverter_names.csv>`_.
 - **Azimuth**: Specifies the orientation of the PV module in degrees. Values between 0 and 360 are permissible (0 = north, 90 = east, 180 = south, 270 = west). Use fill character "0" for other technologies.
 - **Surface Tilt**: Specifies the inclination of the module in degrees (0 = flat). Use fill character "0" for other technologies.
